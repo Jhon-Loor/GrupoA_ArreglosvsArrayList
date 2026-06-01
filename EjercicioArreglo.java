@@ -1,4 +1,3 @@
-Código Java:
 public class Arreglos {
     public static void main(String[] args) {
 
